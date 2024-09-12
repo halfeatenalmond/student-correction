@@ -3,6 +3,6 @@
 x <- 5
 y <- 1
 
-while(y < x){
-  print("y is still less than x")
+while(y > x){
+  print("x is still less than y")
 }
